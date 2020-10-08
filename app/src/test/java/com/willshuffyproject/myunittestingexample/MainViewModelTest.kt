@@ -15,7 +15,7 @@ class MainViewModelTest {
     private val dummyWidth = 7.0
     private val dummyHeight = 6.0
 
-    private val dummyVolume = 500.0
+    private val dummyVolume = 504.0
 
 
     @Before
